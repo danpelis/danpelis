@@ -15,8 +15,17 @@
 
 
 ## GitHub Stats
-![Dan's GitHub stats](https://github-readme-stats.vercel.app/api?username=danpelis&show_icons=true&theme=cobalt)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danpelis&layout=compact&theme=cobalt)
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danpelis&layout=compact&theme=swift"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=danpelis&show_icons=true&theme=swift" />
+</p>
+ -->
+
+![Dan's GitHub stats](https://github-readme-stats.vercel.app/api?username=danpelis&show_icons=true&theme=swift)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danpelis&layout=compact&theme=swift)
 <!--
 **danpelis/danpelis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
