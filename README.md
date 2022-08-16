@@ -6,9 +6,10 @@
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=Docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Platform-TensorFlow-informational?style=flat&logo=TensorFlow&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Platform-PyTorch-informational?style=flat&logo=PyTorch&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 
-#### 🎓 I'm currently a graduate student at Stevens Institute of Technology studying Applied Artificial Intelligence
+#### 🎓 I'm a recent graduate from Stevens Institute of Technology, with my Master's in Applied Artificial Intelligence
 #### 🖥️ Some of the areas I've worked in include Machine Learning, Web Development, and Parallel Processing
 #### 🔎 In the future I'm hoping to learn more about hardware design and FPGA programming
 
