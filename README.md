@@ -13,7 +13,7 @@
 #### :office: I currently work as a AI/ML Developer at JPMC
 #### 🖥️ Some of the areas I've worked in include Machine Learning, Software Development, and Parallel Processing
 
-
+<!-- 
 ## GitHub Stats
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danpelis&layout=compact&theme=swift"/>
@@ -22,7 +22,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=danpelis&show_icons=true&theme=swift" />
 </p>
  -->
-
+<!-- 
 ![Dan's GitHub stats](https://github-readme-stats.vercel.app/api?username=danpelis&show_icons=true&theme=swift)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danpelis&layout=compact&theme=swift)
