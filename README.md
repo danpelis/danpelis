@@ -14,7 +14,7 @@
 #### 🖥️ Some of the areas I've worked in include Machine Learning, Software Development, and Parallel Processing
 #### 🔎 In the future I'm hoping to learn more about hardware design and FPGA programming
 
-
+<!--
 ## GitHub Stats
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danpelis&layout=compact&theme=swift"/>
@@ -24,6 +24,7 @@
 </p>
  -->
 
+<!--
 ![Dan's GitHub stats](https://github-readme-stats.vercel.app/api?username=danpelis&show_icons=true&theme=swift)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danpelis&layout=compact&theme=swift)
