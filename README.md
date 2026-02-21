@@ -9,12 +9,11 @@
 ![](https://img.shields.io/badge/Platform-PyTorch-informational?style=flat&logo=PyTorch&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 
-#### 🎓 I'm a recent graduate from Stevens Institute of Technology, where I received my Master's in Applied Artificial Intelligence
-#### :office: I currently work as a Cyber Research Engineer at CACI
+#### 🎓 I'm a graduate from Stevens Institute of Technology, where I received my Master's in Applied Artificial Intelligence
+#### :office: I currently work as a AI/ML Developer at JPMC
 #### 🖥️ Some of the areas I've worked in include Machine Learning, Software Development, and Parallel Processing
-#### 🔎 In the future I'm hoping to learn more about hardware design and FPGA programming
 
-<!--
+
 ## GitHub Stats
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danpelis&layout=compact&theme=swift"/>
@@ -24,7 +23,6 @@
 </p>
  -->
 
-<!--
 ![Dan's GitHub stats](https://github-readme-stats.vercel.app/api?username=danpelis&show_icons=true&theme=swift)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danpelis&layout=compact&theme=swift)
